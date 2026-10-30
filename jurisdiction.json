@@ -1,0 +1,11 @@
+{
+  "path": "ru-ud",
+  "code": "RU-UD",
+  "name": "Udmurt Republic",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-udmurtia-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
