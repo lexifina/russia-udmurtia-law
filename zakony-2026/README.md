@@ -1,6 +1,6 @@
 # Udmurt Republic: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 21 versions, from 2026-01-01 (latest in force: 2026-10-27) · <http://publication.pravo.gov.ru/documents/block/region18>
+Законы 2026 · 23 versions, from 2026-01-01 (latest in force: 2026-11-23) · <http://publication.pravo.gov.ru/documents/block/region18>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -91,3 +91,6 @@
 | Закон № 88-РЗ | [88-rz.md](88-rz.md) | 1 | 2026-10-27 |
 | Закон № 89-РЗ | [89-rz.md](89-rz.md) | 1 | 2026-10-27 |
 | Закон № 9-РЗ | [9-rz.md](9-rz.md) | 1 | 2026-03-02 |
+| Закон № 90-РЗ | [90-rz.md](90-rz.md) | 1 | 2026-11-18 |
+| Закон № 91-РЗ | [91-rz.md](91-rz.md) | 1 | 2026-11-23 |
+| Закон № 92-РЗ | [92-rz.md](92-rz.md) | 1 | 2026-11-23 |
