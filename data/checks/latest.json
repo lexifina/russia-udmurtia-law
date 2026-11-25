@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T15:00:44Z",
+ "generated": "2026-11-25T07:03:29Z",
  "latest": {
   "pravo-udmurtia|russia/udmurtia/acts": {
    "attempt": 1,
@@ -13,33 +13,25 @@
    },
    "census": {
     "checked": 1074,
-    "current": 1071,
+    "current": 1074,
     "gone": 0,
-    "held": 1071,
-    "newest_in_repo": "2026-10-27",
-    "pending": 3,
-    "repo": 1071,
+    "held": 1074,
+    "newest_in_repo": "2026-11-23",
+    "pending": 0,
+    "repo": 1074,
     "source_in_scope": 1074
    },
-   "check_id": "ru-pravo-udmurtia-20261124T145944Z",
-   "commits": {
-    "count": 3,
-    "from": "f9910a4b59670468726e031862c760517eeff2ef",
-    "to": "d39dcc807a56f97cf86ab042ecdd884baab896cf"
-   },
+   "check_id": "ru-pravo-udmurtia-20261125T064646Z",
+   "commits": null,
    "corpus": "russia/udmurtia/acts",
    "error": null,
-   "finished": "2026-11-24T15:00:44Z",
+   "finished": "2026-11-25T06:47:43Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region18: 1074 law-type documents listed (every page read); 1071 held here; 3 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region18: 1074 law-type documents listed (every page read); 1074 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "1800202611180008",
-     "1800202611230004",
-     "1800202611230006"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -47,30 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "1800202611180008",
-     "1800202611230004",
-     "1800202611230006"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1074 law-type documents in block region18; newest published 2026-11-23",
    "source": "pravo-udmurtia",
-   "started": "2026-11-24T14:59:44Z",
+   "started": "2026-11-25T06:46:46Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 2,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
