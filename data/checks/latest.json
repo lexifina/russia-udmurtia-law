@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:20:44Z",
+ "generated": "2026-11-27T06:12:36Z",
  "latest": {
   "pravo-udmurtia|russia/udmurtia/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1074,
     "source_in_scope": 1074
    },
-   "check_id": "ru-pravo-udmurtia-20261126T060633Z",
+   "check_id": "ru-pravo-udmurtia-20261127T055955Z",
    "commits": null,
    "corpus": "russia/udmurtia/acts",
    "error": null,
-   "finished": "2026-11-26T06:07:06Z",
+   "finished": "2026-11-27T06:00:25Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region18: 1074 law-type documents listed (every page read); 1074 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1074 law-type documents in block region18; newest published 2026-11-23",
    "source": "pravo-udmurtia",
-   "started": "2026-11-26T06:06:33Z",
+   "started": "2026-11-27T05:59:55Z",
    "unexplained": 0,
    "update": {
     "parts": []

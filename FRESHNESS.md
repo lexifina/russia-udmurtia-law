@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Udmurt Republic: Official Internet Portal of Legal Information (region18) · `russia/udmurtia/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 06:07 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 06:00 UTC**.
 - Acts held here: 1 074; current at the source: 1 074; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
